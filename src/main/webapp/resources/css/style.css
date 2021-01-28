@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.formulaire {
+	width: 400px;
+	border: 1px solid;
+}
+
+
+.card {
+	margin: 2px;
+}
+
+.jumbotron {
+	height: 100%;
+}
+
+.Aligner {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.Aligner-item {
+	max-width: 50%;
+}
